@@ -1,14 +1,21 @@
 # 👋 Olá, eu sou o Diego Medeiros! 
 **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
 
+<a href="https://github.com/diegobyter/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegobyter&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/diegobyter/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
 <!-- ![diegobyter's Stats](https://github-readme-stats.vercel.app/api?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
-![diegobyter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegobyter&theme=tokyonight&hide_border=true)
+<!-- ![diegobyter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegobyter&theme=tokyonight&hide_border=true) -->
 
 <br/>
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![diegobyter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<!-- ![diegobyter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
 
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
 - **Backend**: Python, Java, Spring Framework
