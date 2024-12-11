@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Diego Medeiros! 
 **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
 
-<a href="https://github.com/diegobyter/github-readme-stats">
+<a align=center href="https://github.com/diegobyter/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegobyter&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/diegobyter/convoychat">
