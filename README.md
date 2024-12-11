@@ -1,5 +1,10 @@
 # 👋 Olá, eu sou o Diego Medeiros! 
 **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
+
+![diegobyter's Stats](https://github-readme-stats.vercel.app/api?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![diegobyter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegobyter&theme=tokyonight&hide_border=true)
+![diegobyter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobyter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <br/><br/>
 ## 🛠️ Tecnologias e Ferramentas
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
