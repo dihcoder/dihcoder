@@ -2,7 +2,17 @@
 
 > **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
 
-<a align=center href="https://github.com/dihcoder/github-readme-stats">
+
+  <!-- Primeiro quadro -->
+  
+
+  <!-- Segundo quadro -->
+  
+
+
+
+
+<a align=left href="https://github.com/dihcoder/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihcoder&theme=tokyonight&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dihcoder&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
