@@ -9,9 +9,12 @@
   -->
 </a>
 
+<br/>
+
 ### Essas são as minhas stacks
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,js,html,css,scss,bootstrap)](https://skillicons.dev)
 
+<br/>
   
 ### Você pode me encontrar nestes canais
 <div> 
@@ -23,6 +26,7 @@
   
 </div>
 
+<br/>
 
 ✨ _Explorando o potencial da tecnologia para criar um futuro melhor!_ ✨
 
