@@ -3,9 +3,9 @@
 > **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
 
 <a align=center href="https://github.com/dihcoder/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihcoder&theme=transparent&hide_border=true&locale=pt-br&border_radius=25&card_width=700" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihcoder&theme=transparent&hide_border=true&locale=pt-br&border_radius=25" />
   <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dihcoder&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dihcoder&theme=dark&show_icons=true&hide_border=true&card_width=700&count_private=true&locale=pt-br" />
   -->
 </a>
 
