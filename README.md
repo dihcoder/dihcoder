@@ -4,8 +4,6 @@
 
 <br/>
 
-### :fire: Contribuições
-
 <a align=center href="https://github.com/dihcoder/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihcoder&theme=transparent&hide_border=true&locale=pt-br&border_radius=25" />
   <!--
