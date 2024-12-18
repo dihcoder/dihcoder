@@ -2,6 +2,10 @@
 
 > **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
 
+<br/>
+
+### :fire: Contribuições
+
 <a align=center href="https://github.com/dihcoder/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihcoder&theme=transparent&hide_border=true&locale=pt-br&border_radius=25" />
   <!--
@@ -11,12 +15,12 @@
 
 <br/>
 
-### Essas são as minhas stacks
+### :wrench: Essas são as minhas stacks
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,js,html,css,scss,bootstrap)](https://skillicons.dev)
 
 <br/>
-  
-### Você pode me encontrar nestes canais
+
+### :postbox: Você pode me encontrar nestes canais
 <div> 
   <a href="https://www.youtube.com/channel/UCTZ-0XWu05vMoDP-rpI8HTg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dihcoder" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
