@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Diego Medeiros!
 
-> **Sou estudante de Engenharia de Software e sou apaixonado pelo desenvolvimento full stack**
-
+> **Sou um entusiasta de tecnologia autodidata, apaixonado por Desenvolvimento Web e Design de Interfaces. Meu objetivo é contribuir para a indústria de tecnologia com a criação de softwares e aplicativos funcionais, visualmente atraentes e inovadores.**
 
 <!--
 <a align=center href="https://github.com/dihcoder/github-readme-stats">
