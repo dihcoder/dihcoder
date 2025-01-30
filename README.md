@@ -12,7 +12,8 @@
 <br/>
 
 ### :wrench: Essas são as minhas stacks
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,js,tailwind,scss,bootstrap,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,js,scss,html,css)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,js,tailwind,scss,bootstrap,html,css)](https://skillicons.dev) -->
 
 <br/>
 
