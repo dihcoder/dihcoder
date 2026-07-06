@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E6034&height=250&section=header&text=I%20am%20Dihcoder&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner" />
+  <img src="./giphy.gif" alt="Dihcoder" width="100%" max-width="800px" />
 </div>
 
 <div align="center">
