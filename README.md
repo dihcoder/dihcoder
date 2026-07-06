@@ -3,9 +3,8 @@
 <!-- ========================================================= -->
 
 <div align="center">
-  <img src="./giphy.gif" alt="Dihcoder" width="100%" max-width="800px" />
+  <img src="giphy.gif" alt="Dihcoder Banner" width="800" height="500" />
 </div>
-
 <div align="center">
 
 ### Building software • Exploring low-level systems • Learning 
