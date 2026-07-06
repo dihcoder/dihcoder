@@ -130,5 +130,5 @@ If you like my work, consider starring my repositories.
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVqbXdwOXVicWpvaDZxaTRmdmJramVpbWliajloY3djcW9pOTE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AFuvqdSLGoaJGTE7Iy/giphy.gif" width="200" />
+  <img src="Floating Deliver Us The Moon Sticker by KeokeN Interactive.gif" width="200" alt="Floating Astronaut" />
 </div>
