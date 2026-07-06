@@ -122,14 +122,13 @@
 </picture>
 
 
-### Thanks for visiting!
+<div align="center">
 
-⭐ If you like my work, consider starring my repositories.
+### Thanks for visiting! ⭐ 
+If you like my work, consider starring my repositories.
 
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E6034&height=120&section=footer"/>
-
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVqbXdwOXVicWpvaDZxaTRmdmJramVpbWliajloY3djcW9pOTE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AFuvqdSLGoaJGTE7Iy/giphy.gif" width="200" />
 </div>
