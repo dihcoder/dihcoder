@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-  <img src="giphy.gif" alt="Dihcoder Banner" width="800" height="500" />
+  <img src="giphy.gif" alt="Dihcoder Banner" width="800" height="550" />
 </div>
 <div align="center">
 
